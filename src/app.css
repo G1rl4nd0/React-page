@@ -1,0 +1,22 @@
+body {
+  padding: 10px;
+  background-color: #1e3969;
+}
+
+h1,
+h2,
+p,
+li {
+    color: #ffffff;
+}
+
+.container {
+  display: flex;
+  gap: 5px;
+  margin-left: -10px;
+}
+
+.imagem {
+  width: 200px;
+  padding-bottom: 10px;
+}
